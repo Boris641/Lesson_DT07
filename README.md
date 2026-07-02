@@ -1,5 +1,6 @@
 <img width="1537" height="859" alt="image" src="https://github.com/user-attachments/assets/168cb9fe-43e2-4437-8fb9-c28e38af8d4b" />
-<img width="1526" height="808" alt="image" src="https://github.com/user-attachments/assets/7deef845-11b0-4265-beb3-1990b95ed84f" />
+<img width="1525" height="471" alt="image" src="https://github.com/user-attachments/assets/0d146cd5-dd41-4924-b9dd-149aa28d85c3" />
+
 
 # 📊 Проектирование BI-дашборда для e-commerce (Adventure Works)
 
