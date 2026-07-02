@@ -1,3 +1,6 @@
+<img width="1537" height="859" alt="image" src="https://github.com/user-attachments/assets/168cb9fe-43e2-4437-8fb9-c28e38af8d4b" />
+<img width="1526" height="808" alt="image" src="https://github.com/user-attachments/assets/7deef845-11b0-4265-beb3-1990b95ed84f" />
+
 # 📊 Проектирование BI-дашборда для e-commerce (Adventure Works)
 
 🔗 **[ОТКРЫТЬ ИНТЕРАКТИВНЫЙ ДАШБОРД](https://datalens.yandex/j5hz7kc4n5n82)**
